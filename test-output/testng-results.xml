@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test is started execution]]>
+    </line>
+    <line>
+      <![CDATA[launching browser.....]]>
+    </line>
+    <line>
+      <![CDATA[waiting.............]]>
+    </line>
+    <line>
+      <![CDATA[clicking on car button]]>
+    </line>
+    <line>
+      <![CDATA[gettingPlansWithoutCarNumber]]>
+    </line>
+    <line>
+      <![CDATA[gettingPlansWithoutCarNumber passed]]>
+    </line>
+    <line>
+      <![CDATA[Logging Out]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser....]]>
+    </line>
+    <line>
+      <![CDATA[launching browser.....]]>
+    </line>
+    <line>
+      <![CDATA[waiting.............]]>
+    </line>
+    <line>
+      <![CDATA[clicking on car button]]>
+    </line>
+    <line>
+      <![CDATA[validateErrorMessageIfCarNumDetails]]>
+    </line>
+    <line>
+      <![CDATA[Oh, we can’t proceed without your registration number. Do your bit?]]>
+    </line>
+    <line>
+      <![CDATA[Oh, we can’t proceed without your registration number. Do your bit?]]>
+    </line>
+    <line>
+      <![CDATA[validateErrorMessageIfCarNumDetails passed]]>
+    </line>
+    <line>
+      <![CDATA[Logging Out]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser....]]>
+    </line>
+    <line>
+      <![CDATA[launching browser.....]]>
+    </line>
+    <line>
+      <![CDATA[waiting.............]]>
+    </line>
+    <line>
+      <![CDATA[clicking on car button]]>
+    </line>
+    <line>
+      <![CDATA[validateErrorMessageOnInvalidCarNumber]]>
+    </line>
+    <line>
+      <![CDATA[validateErrorMessageOnInvalidCarNumber passed]]>
+    </line>
+    <line>
+      <![CDATA[Logging Out]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser....]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-02-17T22:36:22 IST" name="Suite" finished-at="2026-02-17T22:36:43 IST" duration-ms="20975">
+    <groups>
+      <group name="policyPlan">
+        <method signature="CarPolicy.gettingPlansWithoutCarNumber()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" name="gettingPlansWithoutCarNumber" class="coverfoxTestClass.CarPolicy"/>
+      </group> <!-- policyPlan -->
+      <group name="car">
+        <method signature="CarPolicy.gettingPlansWithoutCarNumber()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" name="gettingPlansWithoutCarNumber" class="coverfoxTestClass.CarPolicy"/>
+        <method signature="CarPolicy.validateErrorMessageIfCarNumDetails()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" name="validateErrorMessageIfCarNumDetails" class="coverfoxTestClass.CarPolicy"/>
+        <method signature="CarPolicy.validateErrorMessageOnInvalidCarNumber()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" name="validateErrorMessageOnInvalidCarNumber" class="coverfoxTestClass.CarPolicy"/>
+      </group> <!-- car -->
+    </groups>
+    <test started-at="2026-02-17T22:36:22 IST" name="Test" finished-at="2026-02-17T22:36:43 IST" duration-ms="20975">
+      <class name="coverfoxTestClass.CarPolicy">
+        <test-method is-config="true" signature="clickOnCarButton()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:22 IST" name="clickOnCarButton" finished-at="2026-02-17T22:36:27 IST" duration-ms="4881" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser.....]]>
+            </line>
+            <line>
+              <![CDATA[waiting.............]]>
+            </line>
+            <line>
+              <![CDATA[clicking on car button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnCarButton -->
+        <test-method signature="gettingPlansWithoutCarNumber()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:27 IST" name="gettingPlansWithoutCarNumber" finished-at="2026-02-17T22:36:29 IST" duration-ms="2030" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gettingPlansWithoutCarNumber]]>
+            </line>
+            <line>
+              <![CDATA[gettingPlansWithoutCarNumber passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gettingPlansWithoutCarNumber -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:29 IST" name="logOut" finished-at="2026-02-17T22:36:30 IST" duration-ms="782" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logging Out]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Closing browser....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="clickOnCarButton()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:30 IST" name="clickOnCarButton" finished-at="2026-02-17T22:36:33 IST" duration-ms="3647" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser.....]]>
+            </line>
+            <line>
+              <![CDATA[waiting.............]]>
+            </line>
+            <line>
+              <![CDATA[clicking on car button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnCarButton -->
+        <test-method signature="validateErrorMessageIfCarNumDetails()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:33 IST" name="validateErrorMessageIfCarNumDetails" finished-at="2026-02-17T22:36:36 IST" duration-ms="3033" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[validateErrorMessageIfCarNumDetails]]>
+            </line>
+            <line>
+              <![CDATA[Oh, we can’t proceed without your registration number. Do your bit?]]>
+            </line>
+            <line>
+              <![CDATA[Oh, we can’t proceed without your registration number. Do your bit?]]>
+            </line>
+            <line>
+              <![CDATA[validateErrorMessageIfCarNumDetails passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateErrorMessageIfCarNumDetails -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:36 IST" name="logOut" finished-at="2026-02-17T22:36:37 IST" duration-ms="376" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logging Out]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Closing browser....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="clickOnCarButton()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:37 IST" name="clickOnCarButton" finished-at="2026-02-17T22:36:40 IST" duration-ms="3542" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser.....]]>
+            </line>
+            <line>
+              <![CDATA[waiting.............]]>
+            </line>
+            <line>
+              <![CDATA[clicking on car button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnCarButton -->
+        <test-method signature="validateErrorMessageOnInvalidCarNumber()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:40 IST" name="validateErrorMessageOnInvalidCarNumber" finished-at="2026-02-17T22:36:42 IST" duration-ms="2183" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[validateErrorMessageOnInvalidCarNumber]]>
+            </line>
+            <line>
+              <![CDATA[validateErrorMessageOnInvalidCarNumber passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateErrorMessageOnInvalidCarNumber -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:coverfoxTestClass.CarPolicy@1ce24091]" started-at="2026-02-17T22:36:42 IST" name="logOut" finished-at="2026-02-17T22:36:43 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logging Out]]>
+            </line>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Closing browser....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- coverfoxTestClass.CarPolicy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

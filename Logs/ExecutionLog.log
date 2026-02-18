@@ -1,0 +1,731 @@
+2026-02-12 22:27:30,634 - 8thJune2024 -INFO - Openeing Application
+2026-02-12 22:27:32,038 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-12 22:27:34,505 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-12 22:27:47,651 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-12 22:27:47,830 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-12 22:27:49,135 - 8thJune2024 -INFO - entering pincode logger
+2026-02-12 22:27:49,402 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-12 22:27:49,554 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-12 22:27:54,814 - 8thJune2024 -INFO - Validating results logger
+2026-02-12 22:27:54,833 - 8thJune2024 -INFO - closing browser logger
+2026-02-12 22:34:55,546 - 8thJune2024 -INFO - Openeing Application
+2026-02-12 22:34:56,644 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-12 22:34:58,538 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-12 22:35:11,657 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-12 22:35:11,813 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-12 22:35:13,086 - 8thJune2024 -INFO - entering pincode logger
+2026-02-12 22:35:13,087 - 8thJune2024 -WARN - enter valid pincode
+2026-02-12 22:35:13,274 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-12 22:35:13,275 - 8thJune2024 -WARN - enter valid mobile
+2026-02-12 22:35:13,447 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-12 22:35:13,448 - 8thJune2024 -ERROR - check detals again
+2026-02-12 22:35:18,642 - 8thJune2024 -INFO - Validating results logger
+2026-02-12 22:35:18,664 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 10:10:34,199 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 10:10:35,282 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 10:10:37,684 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 10:10:50,862 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 10:10:51,053 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 10:10:52,294 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 10:10:52,295 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 10:10:52,494 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-13 10:10:52,495 - 8thJune2024 -WARN - enter valid mobile
+2026-02-13 10:10:52,674 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 10:10:52,676 - 8thJune2024 -ERROR - check detals again
+2026-02-13 10:10:57,768 - 8thJune2024 -INFO - Validating results logger
+2026-02-13 10:10:57,786 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 10:24:54,188 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 10:24:55,347 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 10:24:57,173 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 10:25:09,993 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 10:25:10,163 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 10:25:11,491 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 10:25:11,492 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 10:25:11,731 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-13 10:25:11,732 - 8thJune2024 -WARN - enter valid mobile
+2026-02-13 10:25:11,892 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 10:25:11,894 - 8thJune2024 -ERROR - check detals again
+2026-02-13 10:25:17,081 - 8thJune2024 -INFO - Validating results logger
+2026-02-13 10:25:17,096 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 10:28:33,179 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 10:28:34,170 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 10:28:35,396 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 10:28:48,633 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 10:28:48,846 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 10:28:50,107 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 10:28:50,108 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 10:28:50,340 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-13 10:28:50,344 - 8thJune2024 -WARN - enter valid mobile
+2026-02-13 10:28:50,518 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 10:28:50,519 - 8thJune2024 -ERROR - check detals again
+2026-02-13 10:28:55,611 - 8thJune2024 -INFO - Validating results logger
+2026-02-13 10:28:55,630 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 11:16:05,698 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 11:16:06,554 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 11:16:08,089 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 11:16:20,681 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 11:16:20,833 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 11:16:22,051 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 11:16:22,051 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 11:16:22,251 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-13 11:16:22,252 - 8thJune2024 -WARN - enter valid mobile
+2026-02-13 11:16:22,395 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 11:16:22,396 - 8thJune2024 -ERROR - check detals again
+2026-02-13 11:16:27,499 - 8thJune2024 -INFO - Validating results logger
+2026-02-13 11:16:27,510 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 14:05:00,482 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 14:05:01,492 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 14:05:03,601 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 14:05:16,198 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 14:05:16,399 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 14:05:17,671 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 14:05:17,672 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 14:05:17,849 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-13 14:05:17,850 - 8thJune2024 -WARN - enter valid mobile
+2026-02-13 14:05:17,992 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 14:05:17,992 - 8thJune2024 -ERROR - check detals again
+2026-02-13 14:05:23,096 - 8thJune2024 -INFO - Validating results logger
+2026-02-13 14:05:23,109 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 14:09:25,771 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 14:09:26,686 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 14:09:28,428 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 14:09:41,196 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 14:09:41,342 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 14:09:42,599 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 14:09:42,600 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 14:09:42,828 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-13 14:09:42,829 - 8thJune2024 -WARN - enter valid mobile
+2026-02-13 14:09:42,980 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 14:09:42,982 - 8thJune2024 -ERROR - check detals again
+2026-02-13 14:09:48,177 - 8thJune2024 -INFO - Validating results logger
+2026-02-13 14:09:48,196 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 15:00:27,325 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 15:00:28,288 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 15:00:29,980 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 15:00:42,613 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 15:00:42,784 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 15:00:44,069 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 15:00:44,069 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 15:00:44,266 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-13 15:00:44,267 - 8thJune2024 -WARN - enter valid mobile
+2026-02-13 15:00:44,413 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 15:00:44,415 - 8thJune2024 -ERROR - check detals again
+2026-02-13 15:00:49,621 - 8thJune2024 -INFO - Validating results logger
+2026-02-13 15:00:49,634 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 15:36:04,107 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 15:36:05,503 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 15:36:08,130 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 15:36:21,578 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 15:36:21,772 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 15:36:23,079 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 15:36:23,081 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 15:36:23,239 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 15:37:12,302 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 15:37:16,140 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 15:37:18,670 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 15:37:31,789 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 15:37:31,934 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 15:37:33,230 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 15:37:33,230 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 15:37:33,375 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 15:40:14,162 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 15:40:15,074 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 15:40:16,723 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 15:40:29,366 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 15:40:29,529 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 15:40:30,827 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 15:40:30,830 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 15:40:30,949 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 15:43:15,280 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 15:43:16,264 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 15:43:17,986 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 15:43:30,596 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 15:43:30,787 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 15:43:32,061 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 15:43:32,061 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 15:43:32,225 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 15:43:32,367 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 15:44:52,363 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 15:44:53,347 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 15:44:55,335 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 15:45:08,071 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 15:45:08,249 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 15:45:09,543 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 15:45:09,544 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 15:45:09,668 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 15:45:09,820 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 15:51:45,258 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 15:51:46,136 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 15:51:47,794 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 15:52:00,407 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 15:52:00,551 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 15:52:01,841 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 15:52:01,842 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 15:52:01,963 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-13 15:52:02,128 - 8thJune2024 -INFO - closing browser logger
+2026-02-13 15:52:57,069 - 8thJune2024 -INFO - Openeing Application
+2026-02-13 15:52:58,022 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-13 15:52:59,739 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-13 15:53:12,388 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-13 15:53:12,561 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-13 15:53:13,891 - 8thJune2024 -INFO - entering pincode logger
+2026-02-13 15:53:13,892 - 8thJune2024 -WARN - enter valid pincode
+2026-02-13 15:53:14,026 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 13:42:55,096 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 13:42:56,313 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 13:42:59,237 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 13:43:13,057 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 13:43:13,267 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 13:43:14,317 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 13:43:14,319 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 13:43:14,568 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 13:43:19,967 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 13:43:21,605 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 13:43:23,233 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 13:43:35,535 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 13:43:35,702 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 13:43:37,019 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 13:43:37,020 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 13:43:37,159 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 13:43:37,301 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 13:48:58,317 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 13:49:00,955 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 13:49:02,826 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 13:49:15,864 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 13:49:16,025 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 13:49:17,067 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 13:49:17,070 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 13:49:17,317 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 13:49:22,366 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 13:49:23,349 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 13:49:25,165 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 13:49:36,984 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 13:49:37,199 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 13:49:38,648 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 13:49:38,649 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 13:49:38,848 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 13:49:39,113 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 13:56:35,422 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 13:56:36,315 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 13:56:37,974 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 13:56:50,889 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 13:56:51,071 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 13:57:06,582 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 13:57:07,639 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 13:57:09,134 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 13:57:20,795 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 13:57:20,933 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 13:57:22,280 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 13:57:22,283 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 13:57:22,422 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 13:57:22,563 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 14:02:19,538 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 14:02:21,533 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 14:02:23,222 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 14:02:35,924 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 14:02:36,067 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 14:02:37,354 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 14:02:37,355 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 14:02:37,492 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 14:02:39,582 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 14:02:42,348 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 14:02:44,606 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 14:02:56,343 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 14:02:56,476 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 14:02:57,672 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 14:02:57,673 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 14:02:57,818 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 14:02:57,900 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 14:20:13,262 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 14:20:14,409 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 14:20:17,538 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 14:20:30,334 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 14:20:30,502 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 14:20:31,771 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 14:20:31,773 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 14:20:32,112 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 14:20:32,113 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 14:20:32,288 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 14:20:32,293 - 8thJune2024 -ERROR - check detals again
+2026-02-17 14:20:37,394 - 8thJune2024 -INFO - Validating results logger
+2026-02-17 14:20:37,411 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 14:23:35,657 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 14:23:36,549 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 14:23:38,341 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 14:23:51,025 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 14:23:51,273 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 14:23:52,556 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 14:23:52,557 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 14:23:52,713 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 14:23:52,850 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 14:23:57,136 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 14:23:58,527 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 14:24:00,342 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 14:24:11,846 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 14:24:11,992 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 14:24:13,338 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 14:24:13,340 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 14:24:13,493 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 14:24:13,643 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 14:28:52,854 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 14:28:54,246 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 14:28:55,408 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 14:29:08,714 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 14:29:08,871 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 14:29:10,141 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 14:29:10,142 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 14:29:10,287 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 14:29:10,406 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 14:29:14,797 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 14:29:15,583 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 14:29:17,491 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 14:29:29,009 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 14:29:29,147 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 14:29:30,421 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 14:29:30,422 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 14:29:30,591 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 14:29:30,691 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 14:29:35,786 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 14:29:36,869 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 14:29:38,950 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 14:29:50,512 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 14:29:50,667 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 14:29:51,983 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 14:29:51,983 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 14:29:52,173 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 14:29:52,174 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 14:29:52,338 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 14:29:52,338 - 8thJune2024 -ERROR - check detals again
+2026-02-17 14:29:57,442 - 8thJune2024 -INFO - Validating results logger
+2026-02-17 14:29:57,449 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 16:23:41,000 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 16:23:42,510 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 16:23:44,215 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 16:23:57,414 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 16:23:57,567 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 16:23:58,594 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 16:23:58,984 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 16:23:59,153 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 16:24:03,243 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 16:24:04,305 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 16:24:06,624 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 16:24:18,574 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 16:24:18,722 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 16:24:20,004 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 16:24:20,005 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 16:24:20,124 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 16:24:20,231 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 16:24:24,502 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 16:24:25,444 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 16:24:26,952 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 16:24:38,630 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 16:24:38,770 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 16:24:40,017 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 16:24:40,018 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 16:24:40,230 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 16:24:40,230 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 16:24:40,435 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 16:24:40,436 - 8thJune2024 -ERROR - check detals again
+2026-02-17 16:24:45,693 - 8thJune2024 -INFO - Validating results logger
+2026-02-17 16:24:45,700 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 16:39:15,829 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 16:39:16,850 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 16:39:33,524 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 16:39:34,723 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 16:39:36,667 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 16:39:49,490 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 16:39:49,644 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 16:39:50,951 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 16:39:50,951 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 16:39:51,187 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 16:39:51,188 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 16:39:51,360 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 16:39:51,362 - 8thJune2024 -ERROR - check detals again
+2026-02-17 16:39:56,512 - 8thJune2024 -INFO - Validating results logger
+2026-02-17 16:39:56,524 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 16:47:20,276 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 16:47:21,200 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 16:47:23,338 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 16:47:36,207 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 16:47:36,426 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 16:47:37,447 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 16:47:37,889 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 16:47:38,023 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 16:47:43,466 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 16:47:44,532 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 16:47:46,188 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 16:47:57,766 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 16:47:57,890 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 16:47:59,095 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 16:47:59,095 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 16:47:59,210 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 16:47:59,320 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 16:48:03,473 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 16:48:04,558 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 16:48:07,187 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 16:48:18,796 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 16:48:18,955 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 16:48:20,208 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 16:48:20,209 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 16:48:20,419 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 16:48:20,420 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 16:48:20,638 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 16:48:20,639 - 8thJune2024 -ERROR - check detals again
+2026-02-17 16:48:25,940 - 8thJune2024 -INFO - Validating results logger
+2026-02-17 16:48:25,947 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 17:15:06,322 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 17:15:07,329 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 17:15:08,913 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 17:15:21,630 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 17:15:21,769 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 17:15:23,086 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 17:15:23,087 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 17:15:23,212 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 17:15:23,340 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 17:22:30,012 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 17:22:31,980 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 17:22:33,826 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 17:22:46,759 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 17:22:46,943 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 17:22:47,953 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 17:22:48,394 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 17:22:48,528 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 17:22:52,200 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 17:22:53,934 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 17:22:55,613 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 17:23:07,201 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 17:23:07,345 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 17:23:08,688 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 17:23:08,689 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 17:23:08,909 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 17:23:09,044 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 17:26:05,406 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 17:26:06,343 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 17:26:08,089 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 17:26:20,914 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 17:26:21,047 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 17:26:22,069 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 17:26:22,518 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 17:26:22,636 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 17:26:26,644 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 17:26:27,552 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 17:26:28,998 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 17:26:40,927 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 17:26:41,081 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 17:26:42,329 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 17:26:42,330 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 17:26:42,475 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 17:26:42,575 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 17:30:46,352 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 17:30:47,211 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 17:30:48,749 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 17:31:01,584 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 17:31:01,738 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 17:31:02,967 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 17:31:02,970 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 17:31:03,212 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 17:31:03,213 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 17:31:03,356 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 17:31:03,358 - 8thJune2024 -ERROR - check detals again
+2026-02-17 17:31:08,486 - 8thJune2024 -INFO - Validating results logger
+2026-02-17 17:31:08,504 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 17:31:12,317 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 17:31:13,171 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 17:31:14,367 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 17:31:25,976 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 17:31:26,118 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 17:31:27,132 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 17:31:27,531 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 17:31:27,638 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 17:31:32,095 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 17:31:32,921 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 17:31:34,359 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 17:31:46,002 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 17:31:46,162 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 17:31:47,421 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 17:31:47,422 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 17:31:47,597 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 17:31:47,716 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 18:42:04,181 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:42:58,902 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:45:49,375 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:45:49,582 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:45:55,267 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:45:55,549 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:46:27,567 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:46:27,772 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:46:36,182 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:46:36,874 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:48:43,489 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:48:43,818 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:49:42,052 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:49:42,262 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:50:17,590 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:50:17,901 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:52:07,645 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:52:07,847 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:52:15,148 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:52:15,428 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:59:30,104 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:59:30,297 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 18:59:37,038 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 18:59:37,318 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:05:33,334 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:05:33,529 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:05:38,640 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:05:40,492 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:07:15,704 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:07:15,939 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:07:22,739 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:07:23,025 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:07:55,559 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:07:55,770 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:08:02,186 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:08:02,467 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:09:37,365 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:09:37,560 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:09:44,267 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:09:44,537 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:10:45,539 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:10:45,728 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:10:52,447 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:10:52,789 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:42:48,909 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:42:49,151 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:42:49,299 - 8thJune2024 -INFO - Clicking on Bought new car Click here link
+2026-02-17 19:42:54,957 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:42:55,225 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:42:55,256 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 19:43:01,505 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:43:01,786 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:43:08,365 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:43:08,613 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:49:26,334 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 19:49:27,309 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 19:49:29,148 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 19:49:41,958 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 19:49:42,158 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 19:49:43,193 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 19:49:43,589 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 19:49:43,731 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 19:49:47,756 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 19:49:48,592 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 19:49:50,268 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 19:50:01,934 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 19:50:02,068 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 19:50:03,315 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 19:50:03,316 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 19:50:03,443 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 19:50:03,571 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 19:50:07,604 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:50:07,891 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:50:07,911 - 8thJune2024 -INFO - Clicking on Bought new car Click here link
+2026-02-17 19:50:14,299 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:50:14,601 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:50:14,617 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 19:50:20,304 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:50:20,584 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:50:26,994 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:50:27,158 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:58:10,522 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 19:58:11,546 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 19:58:13,032 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 19:58:25,666 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 19:58:25,818 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 19:58:26,843 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 19:58:27,252 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 19:58:27,447 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 19:58:30,987 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 19:58:32,455 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 19:58:34,502 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 19:58:46,201 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 19:58:46,405 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 19:58:47,770 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 19:58:47,771 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 19:58:47,933 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 19:58:48,065 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 19:58:51,698 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 19:58:52,979 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 19:58:55,244 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 19:59:06,843 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 19:59:06,993 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 19:59:08,281 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 19:59:08,282 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 19:59:08,523 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 19:59:08,524 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 19:59:08,697 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 19:59:08,698 - 8thJune2024 -ERROR - check detals again
+2026-02-17 19:59:14,465 - 8thJune2024 -INFO - Validating results logger
+2026-02-17 19:59:14,469 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 19:59:18,310 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 19:59:19,160 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 19:59:20,876 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 19:59:32,505 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 19:59:32,638 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 19:59:33,649 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 19:59:34,058 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 19:59:34,155 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 19:59:37,828 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 19:59:38,764 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 19:59:40,241 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 19:59:52,905 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 19:59:53,038 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 19:59:54,387 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 19:59:54,388 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 19:59:54,576 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 19:59:54,692 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 19:59:58,811 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 19:59:59,045 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 19:59:59,086 - 8thJune2024 -INFO - Clicking on Bought new car Click here link
+2026-02-17 20:00:04,602 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 20:00:04,870 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 20:00:04,885 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 20:00:10,608 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 20:00:10,865 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 20:00:16,798 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 20:00:17,091 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 20:00:58,196 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 20:00:59,194 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 20:01:01,340 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 20:01:14,111 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 20:01:14,320 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 20:01:15,346 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 20:01:15,772 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 20:01:15,908 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 20:01:19,918 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 20:01:20,895 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 20:01:22,383 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 20:01:34,151 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 20:01:34,298 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 20:01:35,596 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 20:01:35,597 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 20:01:35,701 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 20:01:35,844 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 20:01:39,862 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 20:01:40,892 - 8thJune2024 -INFO - Clicking on geneder button logger
+2026-02-17 20:01:42,625 - 8thJune2024 -INFO - Clicking on geneder Next logger
+2026-02-17 20:01:54,249 - 8thJune2024 -INFO - Handling Age dropdown logger
+2026-02-17 20:01:54,390 - 8thJune2024 -INFO - Clicking on next button logger
+2026-02-17 20:01:55,682 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 20:01:55,683 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 20:01:55,964 - 8thJune2024 -INFO - entering mobile number logger
+2026-02-17 20:01:55,965 - 8thJune2024 -WARN - enter valid mobile
+2026-02-17 20:01:56,202 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 20:01:56,205 - 8thJune2024 -ERROR - check detals again
+2026-02-17 20:02:01,342 - 8thJune2024 -INFO - Validating results logger
+2026-02-17 20:02:01,350 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 20:02:04,904 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 20:02:07,068 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 20:02:08,314 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 20:02:20,024 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 20:02:20,158 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 20:02:21,165 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 20:02:21,639 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 20:02:21,767 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 20:02:25,374 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 20:02:26,345 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 20:02:27,866 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 20:02:39,766 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 20:02:39,914 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 20:02:41,181 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 20:02:41,181 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 20:02:41,316 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 20:02:41,409 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 20:02:45,438 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 20:02:45,695 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 20:02:45,708 - 8thJune2024 -INFO - Clicking on Bought new car Click here link
+2026-02-17 20:02:49,864 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 20:02:51,910 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 20:02:51,914 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 20:02:57,772 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 20:02:58,041 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 20:03:04,370 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 20:03:04,639 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 21:58:52,007 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 21:58:52,948 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 21:58:54,177 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 21:59:07,048 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 21:59:07,191 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 21:59:08,218 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 21:59:08,633 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 21:59:08,790 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 21:59:12,964 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 21:59:15,759 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 22:22:25,247 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:22:25,460 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:22:25,612 - 8thJune2024 -INFO - Clicking on Bought new car Click here link
+2026-02-17 22:22:30,000 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:22:31,683 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:22:31,723 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 22:22:37,519 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:22:37,779 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:22:44,742 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:22:44,999 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:27:21,111 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 22:27:22,103 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 22:27:23,752 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 22:27:36,577 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 22:27:36,801 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 22:27:37,845 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 22:27:38,252 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 22:27:38,391 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 22:27:42,750 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 22:27:44,113 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 22:27:46,620 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 22:27:58,169 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 22:27:58,303 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 22:27:59,584 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 22:27:59,585 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 22:27:59,692 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 22:27:59,825 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 22:28:05,871 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:28:06,367 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:28:06,383 - 8thJune2024 -INFO - Clicking on Bought new car Click here link
+2026-02-17 22:28:09,889 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:28:11,699 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:28:11,718 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 22:28:19,077 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:28:19,853 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:28:25,169 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:28:25,427 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:34:28,012 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 22:34:28,915 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 22:34:30,563 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 22:34:43,275 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 22:34:43,431 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 22:34:44,470 - 8thJune2024 -INFO - Entering mobile number
+2026-02-17 22:34:44,855 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 22:34:44,993 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 22:34:48,036 - 8thJune2024 -INFO - Openeing Application
+2026-02-17 22:34:50,539 - 8thJune2024 -INFO - Clicking on male gender button
+2026-02-17 22:34:52,589 - 8thJune2024 -INFO - Clicking on geneder Next button
+2026-02-17 22:35:04,316 - 8thJune2024 -INFO - Handling Age dropdown
+2026-02-17 22:35:04,465 - 8thJune2024 -INFO - Clicking on next button
+2026-02-17 22:35:05,706 - 8thJune2024 -INFO - entering pincode logger
+2026-02-17 22:35:05,706 - 8thJune2024 -WARN - enter valid pincode
+2026-02-17 22:35:05,821 - 8thJune2024 -INFO - Clicking on continue button logger
+2026-02-17 22:35:05,947 - 8thJune2024 -INFO - closing browser logger
+2026-02-17 22:35:08,377 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:35:10,560 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:35:10,583 - 8thJune2024 -INFO - Clicking on Bought new car Click here link
+2026-02-17 22:35:16,591 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:35:16,896 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:35:16,917 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 22:35:23,100 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:35:23,399 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:35:29,684 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:35:29,953 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:36:27,055 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:36:27,267 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:36:27,334 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 22:36:33,458 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:36:33,748 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:36:40,433 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:36:40,713 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:40:35,477 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:40:35,718 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:40:35,760 - 8thJune2024 -INFO - Clicking on Dont have car number Click here link
+2026-02-17 22:40:42,321 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:40:42,613 - 8thJune2024 -INFO - Clicking on car button
+2026-02-17 22:40:48,699 - 8thJune2024 -INFO - Opening Application...
+2026-02-17 22:40:50,361 - 8thJune2024 -INFO - Clicking on car button
